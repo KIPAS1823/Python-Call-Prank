@@ -1,7 +1,7 @@
 import os, requests, json, threading, time, re
 os.system('clear')
 #Call Prank Made By KIPAS#1823
-
+#(C) KIPAS#1823 2020
 
 class Spam:
 	def __init__(self, nomor):
